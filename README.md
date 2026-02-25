@@ -46,11 +46,4 @@
 
 ---
 
-### 📈 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar248&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ⭐ *Learning, building, and improving one project at a time.*
