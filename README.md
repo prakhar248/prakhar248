@@ -1,80 +1,70 @@
-# Hi, I'm Prakhar 👋
-
-🎓 Engineering Student | 💻 Aspiring Software Engineer | 🚀 Curious Builder  
-
-I enjoy turning ideas into real projects while continuously improving my problem-solving skills.  
-Currently focused on **Data Structures & Algorithms, Web Development, and Cybersecurity tools**.
+<h1 align="center">Hi 👋, I'm Prakhar</h1>
+<h3 align="center">Engineering Student | Aspiring Software Engineer | Curious Builder</h3>
 
 ---
 
-## 🧠 About Me
-- 🌱 Learning DSA through structured practice  
-- 🔐 Exploring cybersecurity by building encryption and security tools  
-- 💡 Interested in backend systems, scalable applications, and real-world problem solving  
-- 🎯 Working towards becoming a well-rounded Software Engineer  
+### 🧠 About Me
+- 🌱 Currently learning **Data Structures & Algorithms, SQL, and Backend Development**
+- 🔐 Exploring **Cybersecurity** by building encryption tools and security projects  
+- 🤖 Interested in **AI tools, scalable systems, and real-world applications**  
+- 🎯 Goal: Become a well-rounded **Software Engineer**
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:**  
-C++ • JavaScript • SQL (learning) • Go (learning)
-
-**Frontend:**  
-HTML • CSS • JavaScript
-
-**Tools & Platforms:**  
-Git • GitHub • Linux • Vercel • VS Code
-
-**Currently Exploring:**  
-Backend Development • System Design Basics • Secure Coding Practices
+### 🚀 Current Focus
+- 📚 Solving DSA problems consistently  
+- 🔐 Building cybersecurity-focused projects  
+- 🌐 Improving frontend + backend fundamentals  
 
 ---
 
-## ⭐ Featured Projects
-
-### 🔐 File Encryption Tool
-A cybersecurity-focused project that securely encrypts and decrypts files and images.  
-**Tech:** Python, Streamlit  
-👉 Repo: https://github.com/prakhar248/file-encryption-tool
+### 📫 Reach Me At
+📧 prakharchouhan.dev@gmail.com  
+💼 LinkedIn: Your LinkedIn Link  
 
 ---
 
-### 🤖 AI Chatbot
-Built to understand LLM workflows, API integration, and conversational interfaces.  
-**Tech:** JavaScript, Node.js  
-👉 Repo: https://github.com/prakhar248/chatbot-project
+### 🤝 Connect With Me
+<p align="left">
+<a href="www.linkedin.com/in/prakhar-chouhan-3a7277312"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/prakhar248"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
 
 ---
 
-### 🎥 VC Academic Project
-Frontend-based implementation showcasing practical development and UI logic.  
-**Tech:** HTML, CSS, JavaScript  
-👉 Repo: https://github.com/prakhar248/vc-scout
+### 🛠️ Languages and Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,js,html,css,git,github,linux,mysql,nodejs,react,python,go,vscode" />
+</p>
 
 ---
 
-## 📚 Learning Journey (2026 Focus)
-- Consistent DSA problem solving  
-- SQL and database design fundamentals  
-- Go language for security-related projects  
-- Building full-stack applications  
-- Strengthening core CS fundamentals  
+### ⭐ Featured Projects
+- 🔐 **File Encryption Tool** – Secure file & image encryption using Streamlit  
+- 🤖 **AI Chatbot** – LLM-based conversational interface  
+- 🎥 **VC Scout Project** – Web platform for exploring VC firms and investment insights  
 
 ---
 
-## 📈 GitHub Activity Goals
-- Push code consistently  
-- Document learning through projects  
-- Improve code quality and structure  
-- Build impactful real-world tools  
+### 🔥 GitHub Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=prakhar248&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: *Add Link*
-- Email: *Add Email*
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prakhar248&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *Always learning, building, and improving — one project at a time.*
+### 📈 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar248&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐ *Learning, building, and improving one project at a time.*
