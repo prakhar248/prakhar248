@@ -20,7 +20,7 @@
 
 ### 📫 Reach Me At
 📧 prakharchouhan.dev@gmail.com  
-💼 LinkedIn: Your LinkedIn Link  
+💼 LinkedIn: www.linkedin.com/in/prakhar-chouhan-3a7277312  
 
 ---
 
@@ -43,20 +43,6 @@
 - 🔐 **File Encryption Tool** – Secure file & image encryption using Streamlit  
 - 🤖 **AI Chatbot** – LLM-based conversational interface  
 - 🎥 **VC Scout Project** – Web platform for exploring VC firms and investment insights  
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=prakhar248&theme=tokyonight" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prakhar248&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
